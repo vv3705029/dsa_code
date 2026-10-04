@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "new": "cpp",
+        "stack": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "regex": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp"
+    },
+    "git.ignoreLimitWarning": true,
+    "cSpell.words": [
+        "endofword",
+        "INORDED",
+        "validatehelper"
+    ]
+}
